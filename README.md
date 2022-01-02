@@ -1,5 +1,5 @@
 # Sistema de control de computadoras
-Sistema sobre control de computadoras donde se puede registrar una computadora, en procesos buscar una computadora según su numero de serie, en los reportes tenemos el listado de todas las computadoras registradas.
+Sistema sobre control de computadoras donde se puede registrar una computadora, en procesos buscar una computadora según su numero de serie, en los reportes tenemos el listado de todas las computadoras registradas, **18/12/19**.
 
 <div align="center">
 <img src="src/media/menu-principal.png">
